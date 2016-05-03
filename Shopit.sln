@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopit.Domain", "Shopit.Domain\Shopit.Domain.csproj", "{C2566A21-BE82-4434-ACF5-CED5551C3CC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopit.API", "Shopit.Presentation\Shopit.API.csproj", "{7CCF2B7D-EE3C-4DF7-8545-ED919AD8E1F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{D885521D-E715-4BFD-8C8C-D139F78DF063}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{0F2E0F4A-399E-444D-9E5A-6862E5467A53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{224D0C30-C8D1-44CE-B670-8B7D38EA562D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{6DEEC75B-E4D2-46BB-9B68-48A90A1B038F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Resources.csproj", "{DF5F8DDA-11EC-4D32-A93B-C83EDA37E6A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utils", "Utils", "{258B9655-F132-4FA4-B0B1-14BC8B9969A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopit.Infrastructure", "Shopit.Infrastructure\Shopit.Infrastructure.csproj", "{C76AE4C5-4D7E-4742-8BE4-A23EFB63FF53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopit.ApplicationService", "ApplicationService\Shopit.ApplicationService.csproj", "{9248FFF2-06C7-4168-950F-7334E6D70DB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2566A21-BE82-4434-ACF5-CED5551C3CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2566A21-BE82-4434-ACF5-CED5551C3CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2566A21-BE82-4434-ACF5-CED5551C3CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2566A21-BE82-4434-ACF5-CED5551C3CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CCF2B7D-EE3C-4DF7-8545-ED919AD8E1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCF2B7D-EE3C-4DF7-8545-ED919AD8E1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCF2B7D-EE3C-4DF7-8545-ED919AD8E1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCF2B7D-EE3C-4DF7-8545-ED919AD8E1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF5F8DDA-11EC-4D32-A93B-C83EDA37E6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5F8DDA-11EC-4D32-A93B-C83EDA37E6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5F8DDA-11EC-4D32-A93B-C83EDA37E6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5F8DDA-11EC-4D32-A93B-C83EDA37E6A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76AE4C5-4D7E-4742-8BE4-A23EFB63FF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76AE4C5-4D7E-4742-8BE4-A23EFB63FF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76AE4C5-4D7E-4742-8BE4-A23EFB63FF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76AE4C5-4D7E-4742-8BE4-A23EFB63FF53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9248FFF2-06C7-4168-950F-7334E6D70DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9248FFF2-06C7-4168-950F-7334E6D70DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9248FFF2-06C7-4168-950F-7334E6D70DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9248FFF2-06C7-4168-950F-7334E6D70DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C2566A21-BE82-4434-ACF5-CED5551C3CC1} = {D885521D-E715-4BFD-8C8C-D139F78DF063}
+		{7CCF2B7D-EE3C-4DF7-8545-ED919AD8E1F0} = {0F2E0F4A-399E-444D-9E5A-6862E5467A53}
+		{9248FFF2-06C7-4168-950F-7334E6D70DB4} = {224D0C30-C8D1-44CE-B670-8B7D38EA562D}
+		{C76AE4C5-4D7E-4742-8BE4-A23EFB63FF53} = {6DEEC75B-E4D2-46BB-9B68-48A90A1B038F}
+		{DF5F8DDA-11EC-4D32-A93B-C83EDA37E6A2} = {258B9655-F132-4FA4-B0B1-14BC8B9969A4}
+	EndGlobalSection
+EndGlobal

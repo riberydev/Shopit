@@ -1,0 +1,11 @@
+c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\ApplicationService\obj\Debug\Shopit.ApplicationService.csprojResolveAssemblyReference.cache
+c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\ApplicationService\bin\Debug\ApplicationService.dll
+c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\ApplicationService\bin\Debug\ApplicationService.pdb
+c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\ApplicationService\bin\Debug\Resources.dll
+c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\ApplicationService\bin\Debug\Shopit.Domain.dll
+c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\ApplicationService\bin\Debug\Shopit.Infrastructure.dll
+c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\ApplicationService\bin\Debug\Resources.pdb
+c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\ApplicationService\bin\Debug\Shopit.Domain.pdb
+c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\ApplicationService\bin\Debug\Shopit.Infrastructure.pdb
+c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\ApplicationService\obj\Debug\ApplicationService.dll
+c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\ApplicationService\obj\Debug\ApplicationService.pdb
