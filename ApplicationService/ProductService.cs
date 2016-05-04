@@ -38,5 +38,17 @@ namespace ApplicationService
 				throw ex;
 			}
 		}
+
+		public void Create(Product product)
+		{
+			try
+			{
+				this.repository.Create(product);
+			}
+			catch (Exception ex)
+			{
+				throw ex;
+			}
+		}
 	}
 }

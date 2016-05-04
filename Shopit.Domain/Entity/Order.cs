@@ -13,7 +13,7 @@ namespace Shopit.Domain.Entity
 		public int Id { get; private set; }
 		public EOrderStatus Status { get; private set; }
 		public Customer Customer { get; private set; }
-		public OrderItem OrderItem { get; set; }
+		public ICollection<OrderItem> OrderItems { get; set; }
 		public Address BillingAddress { get; private set; }
 		public Address ShippingAddress { get; private set; }
 		public Shipping Shipping { get; set; }
@@ -43,9 +43,20 @@ namespace Shopit.Domain.Entity
 			//TODO: Basic rules for order validation
 		}
 
-		public void ChangeStatus(EOrderStatus status)
+		public void AddItem(OrderItem item)
 		{
-			this.Status = status;
+			if (item.Validate())
+				this.OrderItems.Add(item);
+		}
+
+		public void MarkAsPaid()
+		{
+			this.Status = EOrderStatus.Paid;
+		}
+
+		public void Cancel()
+		{
+			this.Status = EOrderStatus.Canceled;
 		}
 	}
 }

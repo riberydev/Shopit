@@ -7,6 +7,7 @@ C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\Newtonsoft.Json.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\Shopit.Domain.dll
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\Shopit.Infrastructure.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\System.Net.Http.Formatting.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\System.Web.Helpers.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\System.Web.Http.dll
@@ -18,10 +19,10 @@ C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\System.Web.WebPages.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\System.Web.WebPages.Razor.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\WebGrease.dll
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\Shopit.Infrastructure.dll
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\Resources.dll
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\Shopit.Messages.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\ApplicationService.pdb
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\Shopit.Domain.pdb
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\Shopit.Infrastructure.pdb
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\Newtonsoft.Json.xml
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\System.Net.Http.Formatting.xml
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\System.Web.Helpers.xml
@@ -34,7 +35,6 @@ C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\System.Web.WebPages.Deployment.xml
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\System.Web.WebPages.Razor.xml
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\Antlr3.Runtime.pdb
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\Shopit.Infrastructure.pdb
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\Resources.pdb
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\bin\Shopit.Messages.pdb
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\obj\Debug\Shopit.API.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.API\obj\Debug\Shopit.API.pdb

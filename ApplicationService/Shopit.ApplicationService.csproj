@@ -43,10 +43,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Resources\Resources.csproj">
-      <Project>{df5f8dda-11ec-4d32-a93b-c83eda37e6a2}</Project>
-      <Name>Resources</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Shopit.Domain\Shopit.Domain.csproj">
       <Project>{c2566a21-be82-4434-acf5-ced5551c3cc1}</Project>
       <Name>Shopit.Domain</Name>

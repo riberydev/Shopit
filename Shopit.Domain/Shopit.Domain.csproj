@@ -56,9 +56,9 @@
     <Folder Include="ValueObject\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Resources\Resources.csproj">
-      <Project>{df5f8dda-11ec-4d32-a93b-c83eda37e6a2}</Project>
-      <Name>Resources</Name>
+    <ProjectReference Include="..\Shopit.Messages\Shopit.Messages.csproj">
+      <Project>{ef42a26d-81b5-4e0c-abca-54006a1dc150}</Project>
+      <Name>Shopit.Messages</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

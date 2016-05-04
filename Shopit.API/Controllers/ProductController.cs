@@ -1,4 +1,5 @@
 ﻿using ApplicationService;
+using Shopit.API.Models;
 using Shopit.Domain.Entity;
 using Shopit.Domain.Services;
 using Shopit.Infrastructure.Persistence;
@@ -43,6 +44,23 @@ namespace Shopit.API.Controllers
 			try
 			{
 				return  this.service.Get(id);
+			}
+			catch (Exception)
+			{
+				throw;
+			}
+		}
+
+		[HttpPost]
+		[Route("products")]
+		public int Create(ProductModel body)
+		{
+			try
+			{
+				Product _product = new Product(body.Id, new Category(""), body.Name, body.Stock, body.Price, body.Description);
+				this.service.Create(_product);
+
+				return 201;
 			}
 			catch (Exception)
 			{

@@ -1,0 +1,6 @@
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Messages\bin\Debug\Shopit.Messages.dll
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Messages\bin\Debug\Shopit.Messages.pdb
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Messages\obj\Debug\Shopit.Messages.Errors.resources
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Messages\obj\Debug\Shopit.Messages.csproj.GenerateResource.Cache
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Messages\obj\Debug\Shopit.Messages.dll
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Messages\obj\Debug\Shopit.Messages.pdb

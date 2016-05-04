@@ -7,7 +7,7 @@ C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\bin\Debug\Shopit.Domain.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\bin\Debug\Shopit.Infrastructure.dll
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\bin\Debug\Resources.dll
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\bin\Debug\Shopit.Messages.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\bin\Debug\ApplicationService.pdb
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\bin\Debug\Shopit.Domain.pdb
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\bin\Debug\Shopit.Infrastructure.pdb
@@ -16,7 +16,7 @@ C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\bin\Debug\Microsoft.Practices.Unity.xml
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\bin\Debug\Resources.pdb
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\bin\Debug\Shopit.Messages.pdb
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\obj\Debug\Shopit.CrossCutting.csprojResolveAssemblyReference.cache
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\obj\Debug\Shopit.CrossCutting.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.CrossCutting\obj\Debug\Shopit.CrossCutting.pdb

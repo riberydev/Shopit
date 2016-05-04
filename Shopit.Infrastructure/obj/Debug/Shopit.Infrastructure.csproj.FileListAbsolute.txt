@@ -1,10 +1,10 @@
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Infrastructure\obj\Debug\Shopit.Infrastructure.csprojResolveAssemblyReference.cache
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Infrastructure\bin\Debug\Shopit.Infrastructure.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Infrastructure\bin\Debug\Shopit.Infrastructure.pdb
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Infrastructure\bin\Debug\MySql.Data.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Infrastructure\bin\Debug\Shopit.Domain.dll
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Infrastructure\bin\Debug\Resources.dll
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Infrastructure\bin\Debug\Shopit.Messages.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Infrastructure\bin\Debug\Shopit.Domain.pdb
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Infrastructure\bin\Debug\Resources.pdb
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Infrastructure\obj\Debug\Shopit.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Infrastructure\bin\Debug\Shopit.Messages.pdb
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Infrastructure\obj\Debug\Shopit.Infrastructure.dll
 C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Infrastructure\obj\Debug\Shopit.Infrastructure.pdb
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Infrastructure\bin\Debug\MySql.Data.dll

@@ -11,5 +11,6 @@ namespace Shopit.Domain.Services
 	{
 		IEnumerable<Product> Get();
 		Product Get(int id);
+		void Create(Product product);
 	}
 }

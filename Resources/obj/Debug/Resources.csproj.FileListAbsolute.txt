@@ -1,6 +1,0 @@
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Resources\bin\Debug\Resources.dll
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Resources\bin\Debug\Resources.pdb
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Resources\obj\Debug\Resources.Errors.resources
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Resources\obj\Debug\Resources.dll
-C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Resources\obj\Debug\Resources.pdb
