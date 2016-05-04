@@ -1,0 +1,4 @@
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Domain.Test\bin\Debug\Shopit.Domain.Test.dll
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Domain.Test\bin\Debug\Shopit.Domain.Test.pdb
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Domain.Test\obj\Debug\Shopit.Domain.Test.dll
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Domain.Test\obj\Debug\Shopit.Domain.Test.pdb

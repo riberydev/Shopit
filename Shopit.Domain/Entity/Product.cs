@@ -24,8 +24,9 @@ namespace Shopit.Domain.Entity
 		#endregion
 
 		#region Ctor
-		public Product(Category category, string name, int stock, decimal price, string description)
+		public Product(int id, Category category, string name, int stock, decimal price, string description)
 		{
+			this.Id = id;
 			this.Category = category;
 			this.Name = name;
 			this.Stock = stock;

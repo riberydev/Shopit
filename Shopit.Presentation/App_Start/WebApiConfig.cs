@@ -1,6 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using ApplicationService;
+using Microsoft.Practices.Unity;
+using Shopit.Domain.Services;
+using Shopit.Presentation.Helpers;
 using System.Web.Http;
 
 namespace Shopit.Presentation
@@ -9,7 +10,9 @@ namespace Shopit.Presentation
 	{
 		public static void Register(HttpConfiguration config)
 		{
-			// Web API configuration and services
+			var container = new UnityContainer();
+			container.RegisterType<IProductService, ProductService>(new HierarchicalLifetimeManager());
+			config.DependencyResolver = new UnityResolver(container);
 
 			// Web API routes
 			config.MapHttpAttributeRoutes();

@@ -1,9 +1,8 @@
 ﻿using Shopit.Domain.Contracts.Repository;
 using Shopit.Domain.Entity;
 using Shopit.Domain.Services;
-using Shopit.Infrastructure.Persistence;
-using Shopit.Infrastructure.Repository;
 using System;
+using System.Collections.Generic;
 
 namespace ApplicationService
 {
@@ -20,11 +19,7 @@ namespace ApplicationService
 		{
 			try
 			{
-				using (var database = new AdoNetUnitOfWork("shopit_catalog", true))
-				{
-					var _repository = new ProductRepositoryAdoNet(database);
-					return _repository.Get(id);
-				}
+				return this.repository.Get(id);
 			}
 			catch (Exception ex)
 			{
@@ -32,9 +27,16 @@ namespace ApplicationService
 			}
 		}
 
-		public System.Collections.Generic.IEnumerable<Product> Get()
+		public IEnumerable<Product> Get()
 		{
-			throw new NotImplementedException();
+			try
+			{
+				return this.repository.Get();
+			}
+			catch (Exception ex)
+			{
+				throw ex;
+			}
 		}
 	}
 }

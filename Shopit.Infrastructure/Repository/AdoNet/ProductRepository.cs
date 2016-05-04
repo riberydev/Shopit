@@ -6,13 +6,13 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.Common;
 
-namespace Shopit.Infrastructure.Repository
+namespace Shopit.Infrastructure.Repository.AdoNet
 {
-	public class ProductRepositoryAdoNet : IProductRepository
+	public class ProductRepository : IProductRepository
 	{
 		private AdoNetUnitOfWork database;
 
-		public ProductRepositoryAdoNet(IUnitOfWork database)
+		public ProductRepository(IUnitOfWork database)
 		{
 			this.database = database as AdoNetUnitOfWork;
 		}
@@ -25,17 +25,25 @@ namespace Shopit.Infrastructure.Repository
 				{
 					command.CommandText = @"
 					SELECT
-						id, name, category_id, stock, description, price, special_price
+						p.id, p.name, p.category_id, p.stock, p.description, p.price, p.special_price,
+						c.name AS category_name
 					FROM
-						products
+						products AS p
+					INNER JOIN 
+						categories AS c
+						ON c.id = p.category_id
 					WHERE
-						id = @productId
-						AND active = 1";
+						p.id = @productId
+						AND p.active = 1
+						AND c.active = 1";
+
+					command.AddParameter("productId", id);
 
 					using (var reader = command.ExecuteReader())
 					{
 						if (reader.Read())
 							return new Product(
+								0,
 								new Category(reader.GetString(reader.GetOrdinal("category_name"))),
 								reader.GetString(reader.GetOrdinal("name")),
 								reader.GetInt32(reader.GetOrdinal("stock")),
@@ -55,7 +63,47 @@ namespace Shopit.Infrastructure.Repository
 
 		public IEnumerable<Product> Get()
 		{
-			throw new NotImplementedException();
+			List<Product> _products = new List<Product>();
+
+			try
+			{
+				using (var command = this.database.CreateCommand())
+				{
+					command.CommandText = @"
+					SELECT
+						p.id, p.name, p.category_id, p.stock, p.description, p.price, p.special_price,
+						c.name AS category_name
+					FROM
+						products AS p
+					INNER JOIN 
+						categories AS c
+						ON c.id = p.category_id
+					WHERE
+						p.active = 1
+						AND c.active = 1";
+
+					using (var reader = command.ExecuteReader())
+					{
+						while (reader.Read())
+						{
+							_products.Add(new Product(
+								reader.GetInt32(reader.GetOrdinal("id")),
+								new Category(reader.GetString(reader.GetOrdinal("category_name"))),
+								reader.GetString(reader.GetOrdinal("name")),
+								reader.GetInt32(reader.GetOrdinal("stock")),
+								reader.GetDecimal(reader.GetOrdinal("price")),
+								reader.GetString(reader.GetOrdinal("description"))
+							));
+						}
+					}
+				}
+			}
+			catch (Exception ex)
+			{
+				throw ex;
+			}
+
+			return _products;
 		}
 
 		public IEnumerable<Product> GetProductsOutOfStock()

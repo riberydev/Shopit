@@ -1,7 +1,6 @@
-c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\Resources\bin\Debug\Resources.dll
-c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\Resources\bin\Debug\Resources.pdb
-c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
-c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\Resources\obj\Debug\Resources.Errors.resources
-c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
-c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\Resources\obj\Debug\Resources.dll
-c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\Resources\obj\Debug\Resources.pdb
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Resources\bin\Debug\Resources.dll
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Resources\bin\Debug\Resources.pdb
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Resources\obj\Debug\Resources.Errors.resources
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Resources\obj\Debug\Resources.dll
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Resources\obj\Debug\Resources.pdb

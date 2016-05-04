@@ -1,7 +1,7 @@
-c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\Shopit.Domain\obj\Debug\Shopit.Domain.csprojResolveAssemblyReference.cache
-c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\Shopit.Domain\bin\Debug\Shopit.Domain.dll
-c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\Shopit.Domain\bin\Debug\Shopit.Domain.pdb
-c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\Shopit.Domain\bin\Debug\Resources.dll
-c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\Shopit.Domain\bin\Debug\Resources.pdb
-c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\Shopit.Domain\obj\Debug\Shopit.Domain.dll
-c:\Users\rodrigo.ribeiro.webmotors\documents\visual studio 2013\Projects\Shopit\Shopit.Domain\obj\Debug\Shopit.Domain.pdb
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Domain\bin\Debug\Shopit.Domain.dll
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Domain\bin\Debug\Shopit.Domain.pdb
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Domain\bin\Debug\Resources.dll
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Domain\bin\Debug\Resources.pdb
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Domain\obj\Debug\Shopit.Domain.csprojResolveAssemblyReference.cache
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Domain\obj\Debug\Shopit.Domain.dll
+C:\Users\rodrigo.ribeiro.WEBMOTORS\Documents\Visual Studio 2013\Projects\Shopit\Shopit.Domain\obj\Debug\Shopit.Domain.pdb

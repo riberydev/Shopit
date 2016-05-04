@@ -2,18 +2,15 @@
 using Shopit.Domain.Services;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 
 namespace Shopit.Presentation.Controllers
 {
     public class ProductController : ApiController
     {
-		private readonly IProductService service;
+		private IProductService service;
 
-		public ProductController(IProductService service)
+		public ProductController(IProductService service) : base()
 		{
 			this.service = service;
 		}

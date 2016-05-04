@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>3f0bef50-4cee-4957-a610-f13cc5f13632</ProjectGuid>
+    <ProjectGuid>{282A5547-C440-4FD3-98BC-C19D247B3E32}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Shopit.Domain.Test</RootNamespace>

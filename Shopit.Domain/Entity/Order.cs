@@ -42,5 +42,10 @@ namespace Shopit.Domain.Entity
 		{
 			//TODO: Basic rules for order validation
 		}
+
+		public void ChangeStatus(EOrderStatus status)
+		{
+			this.Status = status;
+		}
 	}
 }
